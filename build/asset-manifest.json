@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.26cd5336.css",
+    "main.js": "/static/js/main.d0a59bed.js",
+    "static/js/415.4d6acbeb.chunk.js": "/static/js/415.4d6acbeb.chunk.js",
+    "static/js/787.1ed0c42c.chunk.js": "/static/js/787.1ed0c42c.chunk.js",
+    "static/media/avatar.png": "/static/media/avatar.1eacc76cb04100e93718.png",
+    "static/media/Venkatanarayana Atmakuri.pdf": "/static/media/Venkatanarayana Atmakuri.8039e2c0b4511210dafb.pdf",
+    "static/media/home-main.svg": "/static/media/home-main.541f8179af8209ce03ccf2178fe62dbf.svg",
+    "static/media/about.png": "/static/media/about.aee0f771fbfc1e7b8fa8.png",
+    "static/media/student.png": "/static/media/student.822fd7edd14e72c5f388.png",
+    "static/media/bus.png": "/static/media/bus.a55f94e283fbc58c4117.png",
+    "static/media/scholarship.png": "/static/media/scholarship.79958bfeda39da11ab66.png",
+    "static/media/home-bg.jpg": "/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
+    "static/media/pre.svg": "/static/media/pre.d4812f51c8c80976eaab.svg",
+    "index.html": "/index.html",
+    "main.26cd5336.css.map": "/static/css/main.26cd5336.css.map",
+    "main.d0a59bed.js.map": "/static/js/main.d0a59bed.js.map",
+    "415.4d6acbeb.chunk.js.map": "/static/js/415.4d6acbeb.chunk.js.map",
+    "787.1ed0c42c.chunk.js.map": "/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.26cd5336.css",
+    "static/js/main.d0a59bed.js"
+  ]
+}
