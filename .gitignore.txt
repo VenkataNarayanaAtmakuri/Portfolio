@@ -1,0 +1,7 @@
+node_modules
+.next
+.cache
+dist
+build
+.env
+.DS_Store
