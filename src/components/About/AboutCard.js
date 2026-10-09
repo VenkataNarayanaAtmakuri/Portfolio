@@ -1,3 +1,4 @@
+
 import React from "react";
 import Card from "react-bootstrap/Card";
 import { ImPointRight } from "react-icons/im";
@@ -8,29 +9,59 @@ function AboutCard() {
       <Card.Body>
         <blockquote className="blockquote mb-0">
           <p style={{ textAlign: "justify" }}>
-            Hi Everyone, I am <span className="purple">Venkata Narayana Atmakuri </span>
-            from <span className="purple"> Vijayawada, Andhra Pradesh, India.</span>
+            Hi everyone! I'm{" "}
+            <span className="purple">
+              Venkata Narayana Atmakuri
+            </span>{" "}
+            from{" "}
+            <span className="purple">
+              Vijayawada, Andhra Pradesh, India.
+            </span>
             <br />
-            I am currently pursuing my B.Tech in CSE at KL University, expected to graduate in April,2026.
             <br />
-            Apart from coding, some other activities that I love to do!
+
+            I am a Computer Science and Engineering graduate from{" "}
+            <span className="purple">KL University</span>, with a
+            passion for software development, problem-solving, and
+            exploring emerging technologies.
+            <br />
+            <br />
+
+            My interests include{" "}
+            <span className="purple">
+              Full-Stack Development, DevOps, Cloud Computing, and
+              Artificial Intelligence.
+            </span>{" "}
+            I enjoy transforming ideas into practical applications
+            and continuously improving my technical skills.
+            <br />
+            <br />
+
+            Apart from coding, here are a few things I enjoy!
           </p>
+
           <ul>
             <li className="about-activity">
-              <ImPointRight /> Utilizing New Technologies
+              <ImPointRight /> Exploring new technologies
             </li>
             <li className="about-activity">
-              <ImPointRight /> Travelling
+              <ImPointRight /> Travelling and discovering new places
             </li>
             <li className="about-activity">
-              <ImPointRight /> Listening Music
+              <ImPointRight /> Listening to music
+            </li>
+            <li className="about-activity">
+              <ImPointRight /> Building creative side projects
             </li>
           </ul>
 
           <p style={{ color: "rgb(155 126 172)" }}>
-            "Strive to build things that make a difference!"{" "}
+            "Strive to build things that make a difference!"
           </p>
-          <footer className="blockquote-footer">Venkata Narayana Atmakuri</footer>
+
+          <footer className="blockquote-footer">
+            Venkata Narayana Atmakuri
+          </footer>
         </blockquote>
       </Card.Body>
     </Card>
